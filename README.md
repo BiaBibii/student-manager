@@ -1,4 +1,4 @@
-# **Student Manager Application**
+git # **Student Manager Application**
 Students: Alda Iulia & Beuka Bianka
 ## _Introduction_
 This application is an exercise for the FIS laboratory. You can find the lab assignment on the [lab web page](http://labs.cs.upt.ro/~oose/pmwiki.php/FSE/LAB2020).
